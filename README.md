@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular.js and postgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://leonel-ortiz.netlify.app/Projects](https://leonel-ortiz.netlify.app/Projects)
+- 👨‍💻 All of my projects are available at [https://leonel-ortiz.netlify.app](https://leonel-ortiz.netlify.app)
 
 - 📫 How to reach me **c.leonelortiz@gmail.com**
 
