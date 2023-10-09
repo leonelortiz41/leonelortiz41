@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonel</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Angular.js and postgreSQL**
-
 - 👨‍💻 All of my projects are available at [https://leonel-ortiz.netlify.app](https://leonel-ortiz.netlify.app)
 
 - 📫 How to reach me **c.leonelortiz@gmail.com**
